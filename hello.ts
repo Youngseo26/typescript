@@ -9,20 +9,20 @@ userName = "Youngseo";
 let hobbies: string[];
 hobbies = ["Cooking", "Climbing"];
 
-let person: {
-  name: string;
-  age: number;
-};
+// let person: {
+//   name: string;
+//   age: number;
+// };
 
 person = {
   name: "Youngseo",
   age: 29,
 };
 
-let people: {
-  name: string;
-  age: number;
-}[];
+// let people: {
+//   name: string;
+//   age: number;
+// }[];
 
 people = [
   {
